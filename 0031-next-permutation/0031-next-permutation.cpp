@@ -17,7 +17,7 @@ public:
             return;
         }
 
-        // Find the element just greater than nums[idx]
+        // find the element just greater than nums[idx]
         for(int i = n - 1; i > idx; i--) {
             if(nums[i] > nums[idx]) {
                 swap(nums[i], nums[idx]);
@@ -25,7 +25,7 @@ public:
             }
         }
 
-        // Reverse the suffix
+        // reverse the suffix
         reverse(nums.begin() + idx + 1, nums.end());
     }
 };
