@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0242-valid-anagram) |
+| [0520-detect-capital](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0520-detect-capital) |
 | [1768-merge-strings-alternately](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
