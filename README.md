@@ -82,5 +82,6 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
