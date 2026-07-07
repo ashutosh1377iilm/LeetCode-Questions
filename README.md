@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -91,10 +92,12 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0867-transpose-matrix) |
 ## Counting
 |  |
