@@ -16,6 +16,7 @@
 | [0059-spiral-matrix-ii](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0189-rotate-array) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
