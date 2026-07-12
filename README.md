@@ -25,6 +25,7 @@
 | [0238-product-of-array-except-self](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
+| [0861-score-after-flipping-matrix](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
@@ -110,9 +111,18 @@
 | [0048-rotate-image](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0059-spiral-matrix-ii) |
+| [0861-score-after-flipping-matrix](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0867-transpose-matrix) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0861-score-after-flipping-matrix](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0861-score-after-flipping-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0861-score-after-flipping-matrix](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0861-score-after-flipping-matrix) |
 <!---LeetCode Topics End-->
