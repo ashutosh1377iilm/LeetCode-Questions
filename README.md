@@ -134,4 +134,8 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
