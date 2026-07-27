@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0031-next-permutation) |
@@ -59,6 +60,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0520-detect-capital](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0520-detect-capital) |
 | [1768-merge-strings-alternately](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/1768-merge-strings-alternately) |
@@ -138,4 +140,8 @@
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/1757-recyclable-and-low-fat-products) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
