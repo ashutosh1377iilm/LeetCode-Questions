@@ -32,6 +32,7 @@
 | [0867-transpose-matrix](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0704-binary-search) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -126,6 +128,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/0169-majority-element) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ashutosh1377iilm/LeetCode-Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Greedy
 |  |
 | ------- |
